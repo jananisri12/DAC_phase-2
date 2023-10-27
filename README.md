@@ -1,4 +1,4 @@
-# DAC_phase-2
+# DAC_phase2
 Project Name: Water Quality Data Analysis System
 
 Project Description:
